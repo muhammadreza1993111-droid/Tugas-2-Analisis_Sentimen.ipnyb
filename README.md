@@ -1,1 +1,0 @@
-# Tugas-2-Analisis_Sentimen.ipnyb
